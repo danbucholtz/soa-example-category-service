@@ -18,6 +18,7 @@
 		"soa-example-core-service": "git://github.com/danbucholtz/soa-example-core-service",
 		"soa-example-core-utils": "git://github.com/danbucholtz/soa-example-core-utils",
 		"soa-example-logging-service-api" : "git://github.com/danbucholtz/soa-example-logging-service-api",
+		"soa-example-product-service-api" : "git://github.com/danbucholtz/soa-example-product-service-api",
     	"soa-example-service-config": "git://github.com/danbucholtz/soa-example-service-config"
     }
 }
